@@ -5,6 +5,9 @@ build
 example
 example.c
 
+# Server pids
+.server.pid
+
 # Signal binaries
 tkill
 tgkill
