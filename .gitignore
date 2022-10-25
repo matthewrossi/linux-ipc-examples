@@ -3,7 +3,7 @@ build
 
 # Partial examples
 example
-example.c
+mknod
 
 # Server pids
 .server.pid
