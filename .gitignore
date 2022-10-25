@@ -4,3 +4,7 @@ build
 # Partial examples
 example
 example.c
+
+# Signal binaries
+tkill
+tgkill
